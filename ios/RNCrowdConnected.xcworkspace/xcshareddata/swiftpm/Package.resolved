@@ -1,0 +1,50 @@
+{
+  "pins" : [
+    {
+      "identity" : "aws-sdk-ios-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/aws-amplify/aws-sdk-ios-spm",
+      "state" : {
+        "revision" : "443e35abb0646fb685e0754db74249d3242625ab",
+        "version" : "2.27.10"
+      }
+    },
+    {
+      "identity" : "crowdconnected-core-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/crowdconnected/crowdconnected-core-ios",
+      "state" : {
+        "revision" : "c2751fe529f8ae6e73c006b8966f2a24fbd29d6e",
+        "version" : "1.3.0"
+      }
+    },
+    {
+      "identity" : "crowdconnected-geo-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/crowdconnected/crowdconnected-geo-ios",
+      "state" : {
+        "revision" : "b397be7152320ba9da65dfea98a1892c02ed3220",
+        "version" : "1.3.0"
+      }
+    },
+    {
+      "identity" : "crowdconnected-ips-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/crowdconnected/crowdconnected-ips-ios",
+      "state" : {
+        "revision" : "6dd979473fc4545cb206f4ec80bb311ed337b9e4",
+        "version" : "1.3.0"
+      }
+    },
+    {
+      "identity" : "crowdconnected-shared-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/crowdconnected/crowdconnected-shared-ios.git",
+      "state" : {
+        "revision" : "dc0f69409dd7c75d950ea9cb06dde248ccb98e0e",
+        "version" : "1.3.0"
+      }
+    }
+  ],
+  "version" : 2
+}
